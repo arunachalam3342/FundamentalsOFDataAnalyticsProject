@@ -5,7 +5,7 @@ Team Members:<br />
 2.Arunachalam V 20BRS1067 <br />
 3.Shrikrish S 20BRS1190 <br />
 
-[You can reach the application here.](https://arunachalam3342-dataanalyticsproject-real-estate-app-6syvmz.streamlit.app/)
+[You can reach the application here.](https://arunachalam3342-fundamentalsofdataanalyt-real-estate-app-i0wgpi.streamlit.app/)
 
 Steps to deploy Streamlit Web App
 
